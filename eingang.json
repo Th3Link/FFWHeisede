@@ -106,9 +106,21 @@
          "y":0
         }, 
         {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1098, 1099, 1100, 1101, 1102, 0, 0, 0, 1114, 1115, 1116, 1117, 1118, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":16,
+         "id":9,
+         "name":"top",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
+        }, 
+        {
          "draworder":"topdown",
          "id":8,
-         "name":"floorlayer",
+         "name":"floorLayer",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
@@ -128,7 +140,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":9,
+ "nextlayerid":10,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -181,6 +193,19 @@
          "name":"doors",
          "spacing":0,
          "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":1098,
+         "image":"tiles_png\/rc3-mullana-neon-signs.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"rc3-mullana-neon-signs",
+         "spacing":0,
+         "tilecount":256,
          "tileheight":32,
          "tilewidth":32
         }],
