@@ -43,7 +43,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#Halle"
+                 "value":"map.json#startHalle"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -58,7 +58,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":24,
          "x":0,
          "y":0
