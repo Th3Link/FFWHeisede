@@ -16,7 +16,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":24,
          "x":0,
          "y":0
@@ -28,7 +28,7 @@
          "name":"Utilities",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":24,
          "x":0,
          "y":0
@@ -58,7 +58,7 @@
          "name":"exit",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":24,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":24,
          "x":0,
          "y":0
@@ -82,7 +82,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":24,
          "x":0,
          "y":0
@@ -94,7 +94,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }],
@@ -139,6 +139,16 @@
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":3,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
