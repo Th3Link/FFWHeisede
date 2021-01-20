@@ -103,7 +103,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"memory1.jason#marshall_start"
+                 "value":"memory1.json#marshall_start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -121,7 +121,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"memory1.jason#grisu_start"
+                 "value":"memory1.json#grisu_start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -139,7 +139,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"memory1.jason#sam_start"
+                 "value":"memory1.json#sam_start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -157,7 +157,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"memory1.jason#kreis_start"
+                 "value":"memory1.json#kreis_start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -175,7 +175,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"memory1.jason#drei_start"
+                 "value":"memory1.json#drei_start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -193,7 +193,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"memory1.jason#vier_start"
+                 "value":"memory1.json#vier_start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -211,7 +211,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"memory1.jason#fuenf_start"
+                 "value":"memory1.json#fuenf_start"
                 }],
          "type":"tilelayer",
          "visible":true,
