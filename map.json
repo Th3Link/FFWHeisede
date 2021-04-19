@@ -259,7 +259,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"12oder3_Beispiel.json"
+                 "value":"12oder3\/12oder3_Beispiel.json"
                 }],
          "type":"tilelayer",
          "visible":true,
