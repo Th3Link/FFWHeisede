@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"12oder3_RRR.json"
+                 "value":"12oder3_2X220.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -97,7 +97,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"12oder3_start.json"
+                 "value":"12oder3_X0000.json"
                 }],
          "type":"tilelayer",
          "visible":true,
