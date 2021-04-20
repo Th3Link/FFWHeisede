@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/map.json#startSternentor"
+                 "value":"..\/map.json#startSternentor"
                 }],
          "type":"tilelayer",
          "visible":true,
