@@ -1,0 +1,44 @@
+____________________________
+
+ Welche Farbe hat ein
+ Feuerwehr-Auto?
+
+   1. blau
+   2. weiß
+   3. rot
+
+
+Wie lautet die Notrufnummer?
+
+   1. 123456
+   2. 05066
+   3. 112
+
+
+Wie viele W-Fragen gibt es?
+
+   1. fünf
+   2. drei
+   3. sieben
+
+
+Welcher Fluss fließt nicht
+ durch Sarstedt?
+
+   1. Innerste
+   2. Elbe
+   3. Leine
+
+
+Wo gilt die Notrufnummer?
+
+   1. nur in Niedersachsen
+   2. europaweit
+   3. weltweit
+
+
+Wer beendet das Telefonat?
+
+   1. der Leitstellendisponent
+   2. Ich
+   3. das passiert automatisch
